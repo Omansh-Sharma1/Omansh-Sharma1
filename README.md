@@ -1,18 +1,20 @@
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="gradient divider" />
 
-# Hello World! 👋 I'm Omansh Sharma
+<p align="center">
+  <h1>Hello World! 👋 I'm Omansh Sharma</h1>
+</p>
 
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://github.com/Omansh-Sharma1" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor&color=F7DF1E&center=true&width=500&height=50" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Full-Stack Developer;Java Explorer&color=66FF66&center=true&width=600&height=70" alt="Typing Effect" />
   </a>
 </p>
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" width="200"/>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" width="300"/>
 </div>
 
 ## 🚀 About Me
@@ -55,11 +57,16 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/omansh-sharma" target="_blank">
+  <a href="https://www.linkedin.com/in/omansh-sharma-58aa74281" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/omansh_sharma" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  <!-- LeetCode Button -->
+  <a href="https://leetcode.com/u/Omansh_Sharma/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <!-- Add another link here if you have a preferred social media or portfolio site -->
+  <a href="https://your-portfolio-or-other-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
