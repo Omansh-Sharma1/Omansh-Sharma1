@@ -2,6 +2,9 @@
   <h1>👋 Hello, I'm Omansh Sharma</h1>
 </div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-MERN%20Stack-brightgreen" alt="Web Developer - MERN Stack" />
   <img src="https://img.shields.io/badge/Java-Explorer-orange" alt="Java Explorer" />
@@ -21,13 +24,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Omansh-Sharma1&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical" alt="GitHub Streak" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical" alt="GitHub Streak" />
-</p>
 
 ## 🛠️ Technologies & Tools
 
@@ -55,3 +58,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Omansh-Sharma1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
