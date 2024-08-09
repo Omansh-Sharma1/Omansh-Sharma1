@@ -24,12 +24,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omansh-Sharma1&show_icons=true&theme=radical" alt="GitHub Stats" />
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical" alt="GitHub Streak" />
-</p>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Omansh-Sharma1&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical" alt="GitHub Streak" />
+  </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.Omansh-Sharma1.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
