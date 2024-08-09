@@ -24,9 +24,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Omansh-Sharma1&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical" alt="GitHub Streak" />
+</p>
 </p>
 
 <!--horizontal divider(gradiant)-->
