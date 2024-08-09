@@ -1,4 +1,3 @@
-
 <div align="center" style="background: linear-gradient(90deg, #FF6F61, #6B5B95); color: white; padding: 20px; border-radius: 10px;">
   <h1>👋 Hello, I'm Omansh Sharma</h1>
 </div>
@@ -25,13 +24,19 @@
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omansh-Sharma1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical" alt="GitHub Streak" />
 </p>
 
+<!-- Add the custom most-used languages box here -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omansh-Sharma1&theme=radical" alt="Top Langs" style="max-width: 100%; width: 350px;">
+</p>
+
+
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.Omansh-Sharma1.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Technologies & Tools
 
