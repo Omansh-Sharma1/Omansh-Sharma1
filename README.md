@@ -1,18 +1,12 @@
-<div align="center" style="background: linear-gradient(90deg, #FF6F61, #6B5B95); color: white; padding: 20px; border-radius: 10px;">
-  <h1>👋 Hello, I'm Omansh Sharma</h1>
+<div align="center">
+
+# 👋 Hello, I'm Omansh Sharma
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+MERN+Stack;Java+Explorer;Passionate+Coder;Always+Learning)](https://git.io/typing-svg)
+
+[![An image of @omanshsharma1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omanshsharma1)](https://holopin.io/@omanshsharma1)
+
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-MERN%20Stack-brightgreen" alt="Web Developer - MERN Stack" />
-  <img src="https://img.shields.io/badge/Java-Explorer-orange" alt="Java Explorer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=127.0.0.1.;+Eat+,+Sleep+,+Code+,+Repeat!" alt="Typing SVG" />
-</p>
 
 ## 🚀 About Me
 
@@ -24,67 +18,74 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Omansh-Sharma1&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical" alt="GitHub Streak" />
-  </div>
+<div align="center">
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.Omansh-Sharma1.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical&hide_border=true)](https://github.com/Omansh-Sharma1)
+
+[![Omansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omansh-Sharma1&show_icons=true&theme=radical&hide_border=true)](https://github.com/Omansh-Sharma1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omansh-Sharma1&layout=compact&theme=radical&hide_border=true)](https://github.com/Omansh-Sharma1)
+
+</div>
 
 ## 🛠️ Technologies & Tools
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+<div align="center">
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-EF5B0C?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+</div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🎯 GitHub Contributions
 
-### IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+<div align="center">
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Omansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omansh-Sharma1&theme=react-dark&hide_border=true)](https://github.com/Omansh-Sharma1)
 
-## 🎯 GitHub Achievements
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omansh-Sharma1&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Achievements" />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omansh-Sharma1&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/Omansh-Sharma1)
+
+</div>
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omansh-sharma-58aa74281" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Omansh_Sharma/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omansh-Sharma1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omansh-sharma-58aa74281)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Omansh_Sharma/)
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Omansh-Sharma1&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
