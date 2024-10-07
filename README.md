@@ -99,6 +99,8 @@
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.3);"></div>
 </div>
 
+[![An image of @omanshsharma1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omanshsharma1)](https://holopin.io/@omanshsharma1)
+
 
 <h3 align="center">
   Show some ❤️ by starring some of the repositories!
