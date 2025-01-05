@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3498db&size=30&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Omansh+Sharma+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Java+Explorer+%E2%98%95;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3498db&size=30&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Omansh+Sharma+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Java+Explorer+%E2%98%95;Problem+Solver+%F0%9F%A7%A0";Improvsing+Everyday+☮️ alt="Typing SVG" />
 </div>
 
 
@@ -31,12 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omansh-Sharma1&theme=radical" alt="GitHub Streak" />
 </div>
 
-<details>
-  <summary>📈 Contribution Graph</summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omansh-Sharma1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</details>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -46,9 +40,11 @@
 ### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ### Databases
@@ -63,6 +59,36 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### Frameworks & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+### UI/UX Tools
+<p align="center">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/CorelDRAW-000000?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
+  <img src="https://img.shields.io/badge/Canva-FF7A00?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+### API & Integration Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### Version Control
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <div align="center">
@@ -94,13 +120,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="display: block;"/>
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.3);"></div>
-</div>
-
-[![An image of @omanshsharma1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omanshsharma1)](https://holopin.io/@omanshsharma1)
-
+## 📈 Contibution Graph 
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omansh-Sharma1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 
 <h3 align="center">
   Show some ❤️ by starring some of the repositories!
